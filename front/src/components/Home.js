@@ -43,7 +43,7 @@ const Home = () => {
                 <div className="row">
                     <div className="col-10 offset-1 offset-sm-1 col-md-4 mt-5">
                         <h1>Welcome Back!</h1>
-                        <img id="img" src="https://avatarfiles.alphacoders.com/812/thumb-81215.png" className="align-self-center mt-5" alt="user"/>                        
+                        <img id="img" src="https://i1.sndcdn.com/artworks-000191559126-av0r0k-t500x500.jpg" className="align-self-center mt-5" alt="user"/>                        
                         <h1 className="mt-5">{name}</h1>
                     </div>
                     <div className="col-10 offset-1 offset-sm-1 col-md-4 mt-3">
